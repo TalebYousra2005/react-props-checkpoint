@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 
 export const Profile = ({
   fullName = "user name",
-  bio = "user bio",
+  bio ='user bio',
   proffession = "user profession",
   handleName = () => null,
   children,

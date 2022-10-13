@@ -10,7 +10,7 @@ function App() {
     <>
       <Profile
         fullName="TALEB Yousra"
-        bio=""
+        bio="This is my bio"
         proffession="Pharmacy student"
         handleName={handleName}
       >
